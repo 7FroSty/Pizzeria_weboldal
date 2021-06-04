@@ -1,0 +1,1 @@
+a:4:{s:5:"email";s:14:"nadi@macska.hu";s:8:"password";s:7:"macskak";s:4:"name";s:4:"Nadi";s:5:"phone";s:7:"0123456";}

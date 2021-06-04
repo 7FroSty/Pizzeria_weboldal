@@ -1,0 +1,66 @@
+		* {
+			font-family: Arial;
+			}
+        body {
+            height: 100%;
+            width: 65%;
+            margin: auto;
+            background-color: #FFFBD3;
+        }
+        header {
+            height: 150px;
+            background-image: url('kepek/pizzaheader.jpg');
+            background-size: cover;
+            background-position: center;
+            border: 3px solid #73AD21;
+            border-radius: 0px 0px 15px 15px;
+            border-top: none;
+        }
+        #headerszoveg {
+            font-family: 'Blackadder ITC';
+            color: black;
+            text-shadow: 2px 0 white, -2px 0px white, 0px 2px white, 0px -2px white;
+            font-size: 4.2vw;
+            text-align: center;
+            bottom: 0;
+            margin: auto;
+            padding-top: 70px;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #FF6347;
+            border-left: 3px solid #73AD21;
+            border-right: 3px solid #73AD21;
+            border-radius: 15px 15px 15px 15px;
+        }
+        li a {
+            float: left;
+            display: block;
+			width: 16.6666666667%;
+            padding: 0.65em 0px;
+            text-align: center;
+            text-decoration: none;
+            color: black;
+            font-size: 1.217vw;
+            font-weight: bold;
+        }
+        .navlink:hover {
+            background-color: #008000;
+        }
+        .currentlink{
+            background-color: #73AD21;
+        }
+        main {
+            border: 3px solid #73AD21;
+            border-radius: 15px 15px 15px 15px;
+            background-color: #FFA600;
+        }
+        footer {
+            height: 50px;
+            background-color: #FFFBD3;
+            font-size: 0.7vw;
+            float: right;
+        }
